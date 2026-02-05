@@ -1,5 +1,5 @@
 import { describe, expect, test ,it} from 'vitest'
-import { sumaR } from './src/suma.js'
+import { sumaR } from '../src/suma.js'
 
 
 describe('sum',()=>{
