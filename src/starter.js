@@ -1,5 +1,3 @@
-import { expect } from "vitest";
-
 export function divide(a,b){
     if(b===0) throw new Error('no se puede dividir entre 0')
         
